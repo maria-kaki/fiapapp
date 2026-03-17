@@ -48,4 +48,5 @@ O diferencial do APP FIAP será:
 - Comunicação direta com a instituição
 
 ### Print da tela de login 
-<img width="332" height="730" alt="imagem" src="https://github.com/user-attachments/assets/cabe8614-2c17-4787-8c57-efce1c2c5f11" />
+<img width="332" height="730" alt="imagem" src="https://github.com/user-attachments/assets/49868121-8468-4903-b7cc-872e61045cca" />
+
